@@ -1,11 +1,15 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Mihály Katona # your name (or website title) here
+logo: "/images/profilpicture.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I am a passionate researcher and simulation developer specialising in Python-based automation and robust design analysis methods for electric motor design.
+  Currently, I am pursuing a PhD in robust design analysis and development. My daily work involves building and deploying Python-based simulation pipelines
+  that accelerate innovation in the field of eMobility.  
   <br><br>
-  Second description 
+   I am currently working in the automotive industry at Robert Bosch Hungary, where I led a team of three in developing innovative electric motors to reduce
+   dependence on permanent magnets in collaboration with academic partners. I have experience analysing drivetrain trends in electric vehicles, identifying
+   market gaps and supporting drivetrain development. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/mihaly-katona/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:

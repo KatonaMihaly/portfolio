@@ -23,7 +23,7 @@ Check out the [>> documentation <<](https://github.com/tamasorosz/py2femm/blob/c
 ## Wine Quality Prediction
 
 The project is about predicting the wine quality based on different chemical properties. I have implemented a Random Forest Classifier algorithm after
-refining the initial data. [The project provided hands-on experience:](https://github.com/tamasorosz/py2femm)
+refining the initial data. The project provided hands-on experience:
 - in sorting features based on linear correlation;
 - in balancing the training set of the initial data with under- or oversampling;
 - in interpreting the quality measures based on a test set;

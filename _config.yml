@@ -2,8 +2,7 @@ title: Mihály Katona # your name (or website title) here
 logo: "images/profilpic.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am a passionate researcher and simulation developer specialising in Python-based automation and robust design analysis methods for electric motor design.
-  Currently, I am pursuing a PhD in robust design analysis and development. My daily work involves building and deploying Python-based simulation pipelines
-  that accelerate innovation in the field of eMobility.  
+  My daily work involves building and deploying Python-based simulation pipelines. 
   <br><br>
    I am currently working in the automotive industry at Robert Bosch Hungary, where I led a team of three in developing innovative electric motors to reduce
    dependence on permanent magnets in collaboration with academic partners. I have experience analysing drivetrain trends in electric vehicles, identifying

@@ -36,3 +36,5 @@ Check out the [>> documentation <<](https://github.com/KatonaMihaly/Machine_Lear
 <img src="images/graph_winequality.png?raw=true"/>
 
 ---
+# Proprietary
+

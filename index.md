@@ -39,7 +39,7 @@ Check out the [>> documentation <<](https://github.com/KatonaMihaly/Machine_Lear
 # Other
 ## Graphics Editor Project
 - Learned how a software should be build by hierarchical functions.
-- Worked with whole drawings and not individual objects.
+- Worked with whole drawings and not individual shapes.
 - Performed list comprehension and ternary conditional expressions.
 
 ## Bitmap Image Viewer Project

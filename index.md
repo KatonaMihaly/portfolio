@@ -36,5 +36,21 @@ Check out the [>> documentation <<](https://github.com/KatonaMihaly/Machine_Lear
 <img src="images/graph_winequality.png?raw=true"/>
 
 ---
-# Proprietary
+# Other
+## Graphics Editor Project
+- Learned how a software should be build by hierarchical functions.
+- Worked with whole drawings and not individual objects.
+- Performed list comprehension and ternary conditional expressions.
+
+## Bitmap Image Viewer Project
+- Worked with PBM, PGM and PPM files.
+- Used 2D and 3D arrays in Numpy to store and modify bitmap image data.
+- Visualised 2D Numpy arrays with Matplotlib.
+- Wrote functions to rotate, flip, save, tile, shrink.
+
+## Virtual Computer Project
+- Understood how the left shift operator functions in both decimal and binary multiplication.
+- Performed multiplication using only addition and bitwise shifting, without relying on the * operator.
+- Constructed a four-bit multiplier by utilising an eight-bit adder.
+- Designed an eight-bit multiplier by employing a sixteen-bit adder.
 

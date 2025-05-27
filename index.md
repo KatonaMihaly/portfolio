@@ -37,7 +37,10 @@ Check out the [>> documentation <<](https://github.com/KatonaMihaly/Machine_Lear
 
 ---
 # Other
-## Graphics Editor Project
+## Graphics Editor Project 2
+- 
+
+## Graphics Editor Project 1
 - Learned how a software should be build by hierarchical functions.
 - Worked with whole drawings and not individual shapes.
 - Performed list comprehension and ternary conditional expressions.

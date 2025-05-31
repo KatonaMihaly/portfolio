@@ -38,7 +38,9 @@ Check out the [>> documentation <<](https://github.com/KatonaMihaly/Machine_Lear
 ---
 # Other
 ## Graphics Editor Project 2
-- 
+- Building a simplified version of Turtle Graphics.
+- Design and implementation a data structure to represent straight line segments in the XY plane.
+- Design and implementation of the Turtle class and its methods.
 
 ## Graphics Editor Project 1
 - Learned how a software should be build by hierarchical functions.

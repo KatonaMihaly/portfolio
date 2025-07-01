@@ -52,7 +52,7 @@ This project presents the development of a web-based Material Comparator applica
 
 Check out the [>> documentation <<](https://github.com/KatonaMihaly/MaterialComparator) for more!
 
-<img src="images/function.png?raw=true"/>
+<img src="images/comparatorv1.png?raw=true"/>
 
 ---
 # Machine Learning
